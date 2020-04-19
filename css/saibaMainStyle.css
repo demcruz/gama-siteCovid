@@ -1,0 +1,16 @@
+.saibaMais {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    
+  }
+  
+
+img.imgNoticias{
+      width: 200px;
+      margin-left: 20px;
+  }
+
+
+ 
